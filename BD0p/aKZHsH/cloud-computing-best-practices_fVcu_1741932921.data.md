@@ -4,7 +4,6 @@
 # EXPLORE AWS SERVICES
 
 In the first step, we will learn together how to create and use services on the AWS platform. The exercises are arranged in order of relevance. If you are new to cloud computing, please do it in order.
-
 #### Content
 
 -   [Create new  **AWS Account**](https://000001.awsstudygroup.com/) : Done
