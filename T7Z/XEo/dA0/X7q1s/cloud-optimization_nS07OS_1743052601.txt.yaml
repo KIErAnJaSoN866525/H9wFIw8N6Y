@@ -29,5 +29,4 @@ repos:
 #          - '--args=--only=terraform_workspace_remote'
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
-    hooks:
       - id: end-of-file-fixer
