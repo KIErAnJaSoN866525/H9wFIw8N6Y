@@ -66,7 +66,6 @@ To contributors: please add your name to the list when you submit a patch to the
    * DevOps Pipelines used as a control plane to run existing Pytests on AzureML
    * Automation scripts to configure AzureML environment for pipeline use 
 * **[Chuyang Ke](https://github.com/ChuyangKe)**
-   * Reco utils optimization
    * Performance tests
 * **[Dan Bianchini](https://github.com/danb27)**
    * SAR Single Node algorithm improvements
