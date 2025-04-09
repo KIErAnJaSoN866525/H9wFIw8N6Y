@@ -45,7 +45,6 @@ module.exports = {
       device: {
         type: 'iPhone 14',
       },
-    },
     attached: {
       type: 'android.attached',
       device: {
