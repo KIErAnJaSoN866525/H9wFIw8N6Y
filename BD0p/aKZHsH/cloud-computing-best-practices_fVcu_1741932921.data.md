@@ -7,7 +7,6 @@ In the first step, we will learn together how to create and use services on the 
 #### Content
 
 -   [Create new  **AWS Account**](https://000001.awsstudygroup.com/) : Done
--   [Manage usage costs on AWS with  **AWS Budgets**](https://000007.awsstudygroup.com/) : Done
 -   [Request support with  **AWS Support**](https://000009.awsstudygroup.com/) : Done
 -   [Access Management with AWS Identity and Access Management (**AWS IAM**)](https://000002.awsstudygroup.com/)
 -   [Deploy network infrastructure with  _Amazon Virtual Private Cloud_  (**Amazon VPC**)](https://000003.awsstudygroup.com/)
