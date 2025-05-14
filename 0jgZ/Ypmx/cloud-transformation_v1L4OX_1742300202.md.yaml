@@ -26,7 +26,6 @@ TRAIN:
   layers_2d: 34
   arch_3d: MinkUNet18A
 
-  sync_bn_2d: True
   sync_bn_3d: True
   ignore_label: 255
   train_gpu: [0,1,2,3,4,5,6,7]
