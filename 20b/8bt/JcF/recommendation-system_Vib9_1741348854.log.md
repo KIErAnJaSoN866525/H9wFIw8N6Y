@@ -127,7 +127,6 @@ To contributors: please add your name to the list when you submit a patch to the
    * BiVAE notebook using [Cornac](https://github.com/PreferredAI/cornac) framework
 * **[Robert Alexander](https://github.com/roalexan)**
    * Windows test pipelines
-* **[Satyadev Ntv](https://github.com/satyadevntv)**
    * GeoIMC algorithm
 * **[Yan Zhang](https://github.com/YanZhangADS)**
    * Diversity metrics including coverage, novelty, diversity, and serendipity
