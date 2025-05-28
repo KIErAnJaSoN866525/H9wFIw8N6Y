@@ -108,7 +108,6 @@ linters-settings:
       - os.Mkdir
       - os.MkdirAll
       - os.OpenFile
-      - os.WriteFile
       - prometheus.ExponentialBuckets
       - prometheus.ExponentialBucketsRange
       - prometheus.LinearBuckets
