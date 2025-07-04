@@ -1,8 +1,0 @@
-branch = True
-source = redash
-
-[report]
-omit =
-    */settings.py
-    */python?.?/*
-show_missing = True
